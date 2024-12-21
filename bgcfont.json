@@ -3,6 +3,6 @@
   "name": "BGCFont",
   "previewText": "The official font for Burnt Grilled Cheese!",
   "main": {
-    "BGCFont": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf"
+    "BGCFont": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1"
   }
 }
