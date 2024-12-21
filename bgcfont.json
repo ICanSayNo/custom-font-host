@@ -3,6 +3,23 @@
   "name": "BGCFont",
   "previewText": "The official font for my silly lil game project but now its ported to a fucking JSON for uh uh uh uh revenge thing yeah the thing for discord :buttervibeing:",
   "main": {
-    "ggsans-Normal": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1"
+    "ABCGintoNord-ExtraBold": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1"
   }
 }
