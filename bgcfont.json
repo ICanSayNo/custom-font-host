@@ -3,6 +3,6 @@
   "name": "BGCFont",
   "previewText": "The official font for my silly lil game project but now its ported to a fucking JSON for uh uh uh uh revenge thing yeah the thing for discord :buttervibeing:",
   "main": {
-    "BGCFont": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1"
+    "ggsans-Normal": "https://github.com/ICanSayNo/custom-font-host/raw/refs/heads/main/bgcfont.ttf?raw=1"
   }
 }
