@@ -1,4 +1,8 @@
 {
-    "fontName": "bgcfont",
-    "fontUrl": "https://github.com/ICanSayNo/custom-font-host/blob/main/bgcfont.ttf"
+  "spec": 1,
+  "name": "BGCFont",
+  "previewText": "The official font for Burnt Grilled Cheese!",
+  "main": {
+    "BGCFont": "https://raw.githubusercontent.com/ICanSayNo/custom-font-host/main/bgcfont.ttf"
+  }
 }
